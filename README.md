@@ -1,8 +1,8 @@
-# 🍽️ Restaurant Data Analysis
+# Restaurant Data Analysis
 
-## 📌 Cognifyz Technologies Data Analysis Internship Project
+## Cognifyz Technologies Data Analysis Internship Project
 
-### 📖 Project Description
+### Project Description
 
 This project was completed as part of the **Cognifyz Technologies Data Analysis Internship**. It focuses on performing **Exploratory Data Analysis (EDA)** on a restaurant dataset to uncover valuable business insights related to cuisines, cities, restaurant ratings, pricing, customer engagement, online delivery, table booking, restaurant chains, and geographical distribution.
 
@@ -10,7 +10,7 @@ The analysis was performed using **Python** in **Jupyter Notebook**, with visual
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 * Perform data cleaning and preprocessing.
 * Explore restaurant distribution across different cities.
@@ -24,7 +24,7 @@ The analysis was performed using **Python** in **Jupyter Notebook**, with visual
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * Python
 * Jupyter Notebook
@@ -35,7 +35,7 @@ The analysis was performed using **Python** in **Jupyter Notebook**, with visual
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Restaurant-Data-Analysis/
@@ -65,9 +65,9 @@ Restaurant-Data-Analysis/
 
 ---
 
-# 📊 Tasks Completed
+#  Tasks Completed
 
-## ✅ Level 1
+##  Level 1
 
 ### Task 1 – Cuisine Analysis
 
@@ -95,7 +95,7 @@ Restaurant-Data-Analysis/
 
 ---
 
-## ✅ Level 2
+##  Level 2
 
 ### Task 1 – Restaurant Ratings
 
@@ -122,7 +122,7 @@ Restaurant-Data-Analysis/
 
 ---
 
-## ✅ Level 3
+## Level 3
 
 ### Task 1 – Review Analysis
 
@@ -143,7 +143,7 @@ Restaurant-Data-Analysis/
 
 ---
 
-# 📈 Key Insights
+#  Key Insights
 
 * North Indian cuisine is the most common cuisine.
 * New Delhi has the highest number of restaurants.
@@ -156,7 +156,7 @@ Restaurant-Data-Analysis/
 
 ---
 
-# 📚 Dataset Information
+#  Dataset Information
 
 * Dataset: Restaurant Dataset
 * Total Records: 9551
@@ -164,7 +164,7 @@ Restaurant-Data-Analysis/
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 * Perform sentiment analysis using customer review text.
 * Build an interactive dashboard using Power BI or Tableau.
@@ -173,13 +173,13 @@ Restaurant-Data-Analysis/
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This project demonstrates the practical application of **Exploratory Data Analysis (EDA)** using Python. It provides meaningful insights into restaurant trends, customer preferences, pricing strategies, ratings, and service availability. The project showcases essential data analysis skills, including data preprocessing, visualization, statistical analysis, and business insight generation.
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Saranya G**
 
